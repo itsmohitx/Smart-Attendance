@@ -26,7 +26,7 @@ window.grid_columnconfigure(0, weight=1)
 def clear():
     std_name.delete(0, 'end')
     res = ""
-    label4.configure(text=res)
+    label4.configure(text=res) kar le bhai
 
 
 def clear2():
