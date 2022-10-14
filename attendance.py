@@ -19,7 +19,7 @@ window.geometry('800x500')
 dialog_title = 'QUIT'
 dialog_text = "are you sure?"
 window.configure(background='aqua')
-window.grid_rowconfigure(0, weight=1)
+window.grid_rowconfigure(0, weight=1)ho gaya
 window.grid_columnconfigure(0, weight=1) khatam sab
 
 
