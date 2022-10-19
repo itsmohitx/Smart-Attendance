@@ -15,7 +15,7 @@ window.title("STUDENT ATTENDANCE USING FACE RECOGNITION SYSTEM")
 window.geometry('800x500')
 
 
-sdgsdgsdgvggfgfgg
+#last pull request
 dialog_title = 'QUIT'
 dialog_text = "are you sure?"
 window.configure(background='aqua')
