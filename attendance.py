@@ -16,6 +16,7 @@ window.geometry('800x500')
 
 teri baara bajau
 #last pull request
+efhfuehuhefuhfuehfuhueheuhuf
 dialog_title = 'QUIT'
 dialog_text = "are you sure?"
 window.configure(background='aqua')
