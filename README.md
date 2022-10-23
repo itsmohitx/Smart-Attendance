@@ -2,7 +2,7 @@
 
 <h4 align="center"><i>This is an automatic student attendance system using face recognition. The aim is to automate the process of attendance maintenance.</i></h4><br>
 
-s21V QA;JBU
+s21V QA;JBU2  3R2BL 
 ## 👩 FACE RECOGNITION 1  Q2  ION/O ;GIU   B131CB BIQH
 JC ,GJC
 Face recognition is a biometric recognition technique.
