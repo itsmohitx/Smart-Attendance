@@ -34,7 +34,7 @@ It has 4 steps which are :assasasasaasassasasasasaasasgergqwfwfweudf `1 v`vqwukt
 
 This system works accordingly with a series of step explained below:
 
-1. **DATA COLLECTION**:
+1. **DATA COLLECTION**:ff
 <br>
 
 ![capture](https://github.com/memudualimatou/STUDENT-ATTENDANCE-USING-FACIAL-RECOGNITION-SYSTEM-OPENCV/blob/master/Docs/Images/Capture12.PNG)
