@@ -27,7 +27,7 @@ It has 4 steps which are :assasasasaasassasasasasaasasgergqwfwfweudfvqwuktewv
 
 * [trainner.yml](https://docs.opencv.org/master/dd/d65/classcv_1_1face_1_1FaceRecognizer.html)
 
-* [PIL](https://pillow.readthedocs.io/en/stable/)
+* [PIL](https://pillow.readthedocs.io/en/stable/)13 yu  
 
 
 ## ⚙️ HOW THE SYSTEM WORKS?
