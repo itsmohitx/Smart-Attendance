@@ -3,7 +3,7 @@
 <h4 align="center"><i>This is an automatic student attendance system using face recognition. The aim is to automate the process of attendance maintenance.</i></h4><br>
 
 s
-## 👩 FACE RECOGNITION 1  Q2  ION/O ;GIU
+## 👩 FACE RECOGNITION 1  Q2  ION/O ;GIU   B13
 JC ,GJC
 Face recognition is a biometric recognition technique.
 Biometric recognition is an information system that allows the identification of a person based on some of its main physiological and behavioral characteristics.
@@ -100,7 +100,7 @@ Feel free to mail me for any doubts/query ✉️ anikesadia01@gmail.com
 Feel free to file a new issue with a respective title and description on the the Student attendance repository. If you already found a solution to your problem, I would love to review your pull request!
 
 ## ❤️ Owner
-Made with ❤️  by MEMUDU alimatou sadia
+Made with ❤️  by MEMUDU alimatou sadia1  24YUHL
 
 ## 👍 Credits
 https://www.pyimagesearch.com/ 
