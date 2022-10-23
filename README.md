@@ -34,8 +34,7 @@ ishita gomashe
 
 This system works accordingly with a series of step explained below:
 
-1. **DATA COLLECTION**:ff
-<br>
+
 
 ![capture](https://github.com/memudualimatou/STUDENT-ATTENDANCE-USING-FACIAL-RECOGNITION-SYSTEM-OPENCV/blob/master/Docs/Images/Capture12.PNG)
 
