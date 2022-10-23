@@ -13,7 +13,7 @@ It has 4 steps which are :assasasasaasassasasasasaasa2rrh2  v34uk 4sgergqwfwfweu
 2. **Data Gathering**wfq24U TG,ghcghcmqCWEKBGQIL G.4ILQ RFK,1  v vq ;BJ ?:o2
 3. **Data Comparison**
 4. **Face Recognition** hello boy
-  1 12 1  b2
+  1 12 1  b246ut76566
 
 ## ⚠️ TECHONLOGY USED
 
