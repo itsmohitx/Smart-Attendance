@@ -12,7 +12,7 @@ It has 4 steps which are :
 1. **Face Detection** 
 2. **Data Gathering**
 3. **Data Comparison**
-4. **Face Recognition** 
+4. **Face Recognition** hello boy
 
 
 ## ⚠️ TECHONLOGY USED
