@@ -10,7 +10,7 @@ Biometric recognition is an information system that allows the identification of
 Face recognition is a broad problem of ideg'wp wlKntifying or verifying people in photographs and videos, a process comprised of detecaation, alignment, feature extraction, and a recognition task
 It has 4 steps which are :assasasasaasassasasasasaasasgergqwfwfweudf `1 v`vqwuktewv2   EIQ2 B1 LHO>o
 1. **Face Detection** wt qe
-2. **Data Gathering**wfq24U TGBGQIL G.4ILQ RFK,1  
+2. **Data Gathering**wfq24U TG,ghcghcmqCWEKBGQIL G.4ILQ RFK,1  
 3. **Data Comparison**
 4. **Face Recognition** hello boy
   1 12 1  b2
