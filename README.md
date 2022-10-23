@@ -9,7 +9,7 @@ Face recognition is a biometric recognition technique.
 Biometric recognition is an information system that allows the identification of a person based on some of its main physiological and behavioral characteristics.
 Face recognition is a broad problem of ideg'wp wlKntifying or verifying people in photographs and videos, a process comprised of detecaation, alignment, feature extraction, and a recognition task
 It has 4 steps which are :assasasasaasassasasasasaasasgergqwfwfweudf `1 v`vqwuktewv2   EIQ2 B1 LHO>o
-1. **Face Detection** wt qe
+1. **Face Detection** wt qeUYFUTKF,UK
 2. **Data Gathering**wfq24U TG,ghcghcmqCWEKBGQIL G.4ILQ RFK,1  
 3. **Data Comparison**
 4. **Face Recognition** hello boy
