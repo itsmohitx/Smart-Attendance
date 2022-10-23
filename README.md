@@ -18,7 +18,7 @@ It has 4 steps which are :assasasasaasassasasasasaasa2rrh2  v34uk 4sgergqwfwfweu
 ## ⚠️ TECHONLOGY USED
 
 * [OPENCV](https://opencv.org/about/)
-
+ishita gomashe
 * [TKINTER](https://docs.python.org/3/library/tkinter.html)
 7QIF23
 * [HAAR-CASCADE CLASSIFIER](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
