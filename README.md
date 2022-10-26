@@ -3,7 +3,7 @@
 <h4 align="center"><i>This is an auto23vui2giv2qb34gil3limatic student attendance system using face recognition. The aim is to automate the process of attendance maintenance.</i></h4><br>
 
 s21V QA;JBU2  3R2BL 
-## 👩 FACE RECOGNITION 1  Q2  ION/O ;GIU   3vrl2yu4gqwl2B131CB BI2rvkg14vek1yQH
+## 👩 FACE RECOGNITION
 JC ,GJC1  
 Face recognition is a biometric recognition technique.
 Biometric recognition is an information system that allows the identification of a person based on some of its main physiological and behaviewyfgeyooral characteristics.12vukyvr42uy1
